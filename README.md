@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Pankaj Ganjale</h1>
-<h3 align="left">MERN Stack Developer from India</h3>
+<h3 align="left">MERN Stack Developer from Navi Mumbai, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajganjale&label=Profile%20views&color=0e75b6&style=flat" alt="pankajganjale" /> </p>
 
