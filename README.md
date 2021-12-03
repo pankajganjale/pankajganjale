@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stacks and Data Structures & Algorithms.**
 
-- 👨‍💻 All of my projects are available at [https://pankajganjale.herokuapp.com/](https://pankajganjale.herokuapp.com/)
+- 👨‍💻 Know more about me at [pankajganjale.herokuapp.com](https://pankajganjale.herokuapp.com/)
 
 - 💬 Ask me about **JavaScript, React, Express & MongoDB.**
 
